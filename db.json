@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Avinash Srivastava",
+      "username": "Avi.Sri",
+      "email": "Avi.Sri@gmail.com",
+      "phone": "5456263787",
+      "id": 2
+    },
+    {
+      "name": "Ankit Awasthi",
+      "username": "Ankit",
+      "email": "Ankit@gmail.com",
+      "phone": "645764847827",
+      "id": 4
+    },
+    {
+      "name": "22",
+      "username": "22",
+      "email": "22",
+      "phone": "22",
+      "id": 5
+    }
+  ]
+}

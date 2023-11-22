@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "NitishJi",
+      "username": "Nitish",
+      "email": "Nitish.Srivastava06@gmail.com",
+      "phone": "9599192072",
+      "id": 1
+    },
+    {
+      "name": "Avinash Srivastava",
+      "username": "Avi.Sri",
+      "email": "Avi.Sri@gmail.com",
+      "phone": "5456263787",
+      "id": 2
+    },
+    {
+      "name": "Nitish Kumar Srivastava",
+      "username": "Sr.Nitish",
+      "email": "Nitish.Srivastava@gmail.com",
+      "phone": "9599192072",
+      "id": 3
+    },
+    {
+      "name": "Ankit Awasthi",
+      "username": "Ankit",
+      "email": "Ankit@gmail.com",
+      "phone": "645764847827",
+      "id": 4
+    }
+  ]
+}
